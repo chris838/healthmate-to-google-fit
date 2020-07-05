@@ -2,7 +2,7 @@
 
 Withing's and Google can sync with each other, but as of 05/2020 they do not sync historical data, only new incoming measurements. Follow the instructions below to quickly load your Withing's Healthmate data into Google Fit. Currently only supports weight information, but should be easily adaptable.
 
---
+## Instructions
 
 Use the playground (https://developers.google.com/oauthplayground/) to obtain a temporary access token with permissions for reading and writing to the Fitness API.
 
