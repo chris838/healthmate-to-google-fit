@@ -1,6 +1,4 @@
-# healthmate-to-google-fit
-
-Import data from Healthmate to Google Fit.
+# Import data from Healthmate to Google Fit.
 
 Use the playground (https://developers.google.com/oauthplayground/) to obtain a temporary access token with permissions for reading and writing to the Fitness API.
 
